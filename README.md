@@ -1,3 +1,11 @@
+# React Project for Homework
+
+「Web プログラミング言語」の講義の課題として react で作成した簡易的な ToDo アプリです。
+
+プリミティブな機能のみの実装を行いスタイリングなどは殆ど行っていません。
+
+![output](./output.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
